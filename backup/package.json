@@ -1,0 +1,25 @@
+{
+  "name": "software",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattis-1/software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mattis-1/software/issues"
+  },
+  "homepage": "https://github.com/mattis-1/software#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
